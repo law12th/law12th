@@ -1,19 +1,20 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/law12th)
+[![MasterHead](./assets/GithubBanner.png)](https://github.com/law12th)
+
 <h1 align="center">Hi 👋, My name is Yengwe Tepula</h1>
-<h3 align="center">Baby programmer taking first steps in professional software development</h3>
-<img align="right" alt="analyze this" width="400" scr="https://i2.wp.com/i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy-downsized.gif?w=770&ssl=1"></img>
+<h3 align="center">Baby dolphin taking first steps in professional software development</h3>
+<img align="right" alt="analyze this" width="400" src="https://i2.wp.com/i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy-downsized.gif?w=770&ssl=1"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=law12th&label=Profile%20views&color=0e75b6&style=flat" alt="law12th" /> </p>
 
 - 🔭 I’m currently working on **many great things**
 
-- 🌱 I’m currently learning **lua**
+- 🌱 I’m currently learning **other great things**
 
 - 💬 Ask me about **react, node js and spring**
 
 - 📫 How to reach me **lawrencetepula@gmail.com**
 
-- ⚡ Fun fact **I think I am a great dancer**
+- ⚡ Fun fact **I am a great dancer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
