@@ -1,8 +1,5 @@
-[![MasterHead](./assets/GithubBanner.png)](https://github.com/law12th)
-
 <h1 align="center">Hi 👋, My name is Yengwe Tepula</h1>
 <h3 align="center">Baby dolphin taking first steps in professional software development</h3>
-<img align="right" alt="analyze this" width="400" src="https://i2.wp.com/i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy-downsized.gif?w=770&ssl=1"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=law12th&label=Profile%20views&color=0e75b6&style=flat" alt="law12th" /> </p>
 
@@ -10,9 +7,9 @@
 
 - 🌱 I’m currently learning **other great things**
 
-- 💬 Ask me about **react, node js and spring**
+- 💬 Ask me about **all things software**
 
-- 📫 How to reach me **lawrencetepula@gmail.com**
+- 📫 Send me an email at **lawrencetepula@gmail.com**
 
 - ⚡ Fun fact **I am a great dancer**
 
